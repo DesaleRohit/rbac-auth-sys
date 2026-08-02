@@ -1,5 +1,6 @@
 package com.rohit.auth.service;
 
+import com.rohit.auth.dto.AuthResponse;
 import com.rohit.auth.dto.LoginRequest;
 import com.rohit.auth.dto.RegisterRequest;
 import com.rohit.auth.entity.User;
